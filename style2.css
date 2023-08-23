@@ -1,0 +1,21 @@
+p {
+  color: blue;
+}
+h1 {
+  background-color: blue;
+}
+h6 {
+  background-color: blue;
+}
+hl {
+  color: blueviolet;
+}
+ol {
+  color: beige;
+}
+button {
+  color: hwb(345 4% 4%);
+}
+a {
+  color: brown;
+}
